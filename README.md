@@ -33,4 +33,4 @@ This portfolio showcases my growth, skills, and creative journey as a developer.
 ## ⚡ Quick Start
 
 Want to see it in action?  
-1. Just [Click Here](https://kanishkashrivastava07.github.io/Portfolio/)
+1. Just [Click Here](https://kanishka-shrivastava.github.io/Portfolio/)
